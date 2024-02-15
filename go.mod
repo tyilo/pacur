@@ -1,4 +1,4 @@
-module github.com/pacur/pacur
+module github.com/Tyilo/pacur
 
 go 1.18
 

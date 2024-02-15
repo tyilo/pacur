@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/pacur/pacur/cmd"
+	"github.com/Tyilo/pacur/cmd"
 )
 
 func main() {

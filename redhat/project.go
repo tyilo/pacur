@@ -3,8 +3,8 @@ package redhat
 import (
 	"path/filepath"
 
-	"github.com/pacur/pacur/constants"
-	"github.com/pacur/pacur/utils"
+	"github.com/Tyilo/pacur/constants"
+	"github.com/Tyilo/pacur/utils"
 )
 
 type RedhatProject struct {

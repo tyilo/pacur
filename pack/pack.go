@@ -2,8 +2,8 @@ package pack
 
 import (
 	"github.com/dropbox/godropbox/errors"
-	"github.com/pacur/pacur/constants"
-	"github.com/pacur/pacur/resolver"
+	"github.com/Tyilo/pacur/constants"
+	"github.com/Tyilo/pacur/resolver"
 	"strings"
 )
 

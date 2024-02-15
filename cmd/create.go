@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"flag"
-	"github.com/pacur/pacur/mirror"
+	"github.com/Tyilo/pacur/mirror"
 	"strings"
 )
 

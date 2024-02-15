@@ -2,7 +2,7 @@ package signing
 
 import (
 	"fmt"
-	"github.com/pacur/pacur/utils"
+	"github.com/Tyilo/pacur/utils"
 	"path/filepath"
 )
 

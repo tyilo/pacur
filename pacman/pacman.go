@@ -2,9 +2,9 @@ package pacman
 
 import (
 	"fmt"
-	"github.com/pacur/pacur/constants"
-	"github.com/pacur/pacur/pack"
-	"github.com/pacur/pacur/utils"
+	"github.com/Tyilo/pacur/constants"
+	"github.com/Tyilo/pacur/pack"
+	"github.com/Tyilo/pacur/utils"
 	"os"
 	"path/filepath"
 	"strconv"

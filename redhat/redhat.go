@@ -9,9 +9,9 @@ import (
 
 	"github.com/dropbox/godropbox/container/set"
 	"github.com/dropbox/godropbox/errors"
-	"github.com/pacur/pacur/constants"
-	"github.com/pacur/pacur/pack"
-	"github.com/pacur/pacur/utils"
+	"github.com/Tyilo/pacur/constants"
+	"github.com/Tyilo/pacur/pack"
+	"github.com/Tyilo/pacur/utils"
 )
 
 type Redhat struct {

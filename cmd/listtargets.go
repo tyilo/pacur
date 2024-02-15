@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/pacur/pacur/constants"
+	"github.com/Tyilo/pacur/constants"
 )
 
 func ListTargets() (_ error) {

@@ -3,7 +3,7 @@ package cmd
 import (
 	"flag"
 	"github.com/dropbox/godropbox/errors"
-	"github.com/pacur/pacur/utils"
+	"github.com/Tyilo/pacur/utils"
 )
 
 func Parse() (err error) {
